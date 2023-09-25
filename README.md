@@ -1,4 +1,4 @@
-# LA-Crime_Data_2020_to_Present.
+# LA-Crime_Data_2020_to_February_2023.
 
 <div align="center">
   <img src="Images/la_skyline.jpg" alt="Los Angeles skyline">
